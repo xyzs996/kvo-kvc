@@ -1,0 +1,388 @@
+TKVOTables
+v7
+r0
+t308300929.714533
+cCheck dependencies
+cProcessInfoPlistFile /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/Info.plist KVOTables-Info.plist
+cCompileXIB /Users/link/Downloads/KVOTables/MainWindow.xib
+cCompileXIB /Users/link/Downloads/KVOTables/RootViewController.xib
+cProcessPCH /var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-gpniqzmlyblcrtaxqootixcqsqfs/KVOTables_Prefix.pch.gch KVOTables_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/main.o /Users/link/Downloads/KVOTables/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTablesAppDelegate.o /Users/link/Downloads/KVOTables/Classes/KVOTablesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/RootViewController.o /Users/link/Downloads/KVOTables/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables normal i386
+cGenerateDSYMFile /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app.dSYM /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables
+cTouch /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AF0C10000000000000000EE
+t1257292032
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Users/link/Desktop/test pro/KVO-KVC/Classes/KVOTablesAppDelegate.h
+c000000004B0CC29600000000000001B5
+t1259127446
+s437
+
+N/Users/link/Desktop/test pro/KVO-KVC/Classes/KVOTablesAppDelegate.m
+c000000004B0CC2960000000000000333
+t1259127446
+s819
+i"KVOTablesAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/link/Desktop/test pro/KVO-KVC/Classes/RootViewController.h
+c000000004B0CC58B000000000000020A
+t1259128203
+s522
+i<UIKit/UIKit.h>
+
+N/Users/link/Desktop/test pro/KVO-KVC/Classes/RootViewController.m
+c000000004CB01B27000000000000134A
+t1286609703
+s4938
+i"RootViewController.h"
+
+N/Users/link/Desktop/test pro/KVO-KVC/KVOTables_Prefix.pch
+c000000004B0CC2960000000000000144
+t1259127446
+s324
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/link/Desktop/test pro/KVO-KVC/MainWindow.xib
+c000000004B0CC2960000000000002C69
+t1259127446
+s11369
+
+N/Users/link/Desktop/test pro/KVO-KVC/RootViewController.xib
+c000000004B0CC2960000000000004323
+t1259127446
+s17187
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app
+t1286608129
+s238
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app.dSYM
+t1286608129
+s102
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app/Info.plist
+t1286589730
+s601
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app/KVOTables
+t1286608129
+s26108
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app/MainWindow.nib
+t1286589733
+s1998
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app/PkgInfo
+t1286589730
+s8
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app/RootViewController.nib
+t1286589733
+s1389
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTables.LinkFileList
+c000000004CAFCD220000000000000183
+t1286589730
+s387
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTablesAppDelegate.o
+t1286589735
+s39872
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/RootViewController.o
+t1286608129
+s42496
+
+N/Users/link/Desktop/test pro/KVO-KVC/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/main.o
+t1286589735
+s5936
+
+N/Users/link/Desktop/test pro/KVO-KVC/main.m
+c000000004B0CC2960000000000000160
+t1259127446
+s352
+i<UIKit/UIKit.h>
+
+N/Users/link/Downloads/KVOTables/Classes/KVOTablesAppDelegate.h
+c000000004B0CC29600000000000001B5
+t1259127446
+s437
+
+N/Users/link/Downloads/KVOTables/Classes/KVOTablesAppDelegate.m
+c000000004B0CC2960000000000000333
+t1259127446
+s819
+i"KVOTablesAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/link/Downloads/KVOTables/Classes/RootViewController.h
+c000000004B0CC58B000000000000020A
+t1259128203
+s522
+i<UIKit/UIKit.h>
+
+N/Users/link/Downloads/KVOTables/Classes/RootViewController.m
+c000000004CB01B27000000000000134A
+t1286609703
+s4938
+i"RootViewController.h"
+
+N/Users/link/Downloads/KVOTables/KVOTables_Prefix.pch
+c000000004B0CC2960000000000000144
+t1259127446
+s324
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/link/Downloads/KVOTables/MainWindow.xib
+c000000004B0CC2960000000000002C69
+t1259127446
+s11369
+
+N/Users/link/Downloads/KVOTables/RootViewController.xib
+c000000004B0CC2960000000000004323
+t1259127446
+s17187
+
+N/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app
+t1286608129
+s238
+
+N/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app.dSYM
+t1286608129
+s102
+
+N/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/Info.plist
+t1286589730
+s601
+
+N/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables
+t1286608129
+s26108
+
+N/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/MainWindow.nib
+t1286589733
+s1998
+
+N/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/PkgInfo
+t1286589730
+s8
+
+N/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/RootViewController.nib
+t1286589733
+s1389
+
+N/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTables.LinkFileList
+c000000004CAFCD220000000000000183
+t1286589730
+s387
+
+N/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTablesAppDelegate.o
+t1286589735
+s39872
+
+N/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/RootViewController.o
+t1286608129
+s42496
+
+N/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/main.o
+t1286589735
+s5936
+
+N/Users/link/Downloads/KVOTables/main.m
+c000000004B0CC2960000000000000160
+t1259127446
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-fgrqztazxkuhflcepuffcrqdrxyc/KVOTables_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-gpniqzmlyblcrtaxqootixcqsqfs/KVOTables_Prefix.pch.gch
+t1286589735
+s13026768
+
+NKVOTables-Info.plist
+c000000004B0CC296000000000000038D
+t1259127446
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308300929#308300929#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTablesAppDelegate.o "/Users/link/Desktop/test pro/KVO-KVC/Classes/KVOTablesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTablesAppDelegate.o /Users/link/Downloads/KVOTables/Classes/KVOTablesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308282535.171873
+e308282535.387918
+r1
+xCompileC
+xbuild/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTablesAppDelegate.o
+x/Users/link/Downloads/KVOTables/Classes/KVOTablesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/link/Downloads/KVOTables/Classes/KVOTablesAppDelegate.m308282535#308282535#0(0"0(0#0#62"/Users/link/Downloads/KVOTables/Classes/KVOTablesAppDelegate.m4300911832#1862"    cd /Users/link/Downloads/KVOTables    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-generated-files.hmap -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-own-target-headers.hmap -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-all-target-headers.hmap -iquote /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-project-headers.hmap -F/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator -I/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/include -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/DerivedSources/i386 -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/DerivedSources -include /var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-gpniqzmlyblcrtaxqootixcqsqfs/KVOTables_Prefix.pch -c /Users/link/Downloads/KVOTables/Classes/KVOTablesAppDelegate.m -o /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTablesAppDelegate.o0#
+
+CCompileC build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/RootViewController.o "/Users/link/Desktop/test pro/KVO-KVC/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/RootViewController.o /Users/link/Downloads/KVOTables/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308300929.522000
+e308300929.665531
+r1
+xCompileC
+xbuild/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/RootViewController.o
+x/Users/link/Downloads/KVOTables/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/link/Downloads/KVOTables/Classes/RootViewController.m308300929#308300929#0(0"0(0#0#60"/Users/link/Downloads/KVOTables/Classes/RootViewController.m4300911832#1858"    cd /Users/link/Downloads/KVOTables    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-generated-files.hmap -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-own-target-headers.hmap -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-all-target-headers.hmap -iquote /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-project-headers.hmap -F/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator -I/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/include -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/DerivedSources/i386 -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/DerivedSources -include /var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-gpniqzmlyblcrtaxqootixcqsqfs/KVOTables_Prefix.pch -c /Users/link/Downloads/KVOTables/Classes/RootViewController.m -o /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/main.o "/Users/link/Desktop/test pro/KVO-KVC/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/main.o /Users/link/Downloads/KVOTables/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308282535.156184
+e308282535.345601
+r1
+xCompileC
+xbuild/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/main.o
+x/Users/link/Downloads/KVOTables/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/link/Downloads/KVOTables/main.m308282535#308282535#0(0"0(0#0#38"/Users/link/Downloads/KVOTables/main.m4300911832#1822"    cd /Users/link/Downloads/KVOTables    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-generated-files.hmap -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-own-target-headers.hmap -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-all-target-headers.hmap -iquote /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-project-headers.hmap -F/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator -I/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/include -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/DerivedSources/i386 -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/DerivedSources -include /var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-gpniqzmlyblcrtaxqootixcqsqfs/KVOTables_Prefix.pch -c /Users/link/Downloads/KVOTables/main.m -o /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/link/Desktop/test pro/KVO-KVC/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/link/Desktop/test pro/KVO-KVC/RootViewController.xib"
+r0
+
+CCompileXIB /Users/link/Downloads/KVOTables/MainWindow.xib
+s308282530.968655
+e308282533.289805
+r1
+xCompileXIB
+x/Users/link/Downloads/KVOTables/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308282530#308282533#0(0"0(0#0#46"/Users/link/Downloads/KVOTables/MainWindow.xib4300911832#463"    cd /Users/link/Downloads/KVOTables    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/MainWindow.nib /Users/link/Downloads/KVOTables/MainWindow.xib0#
+
+CCompileXIB /Users/link/Downloads/KVOTables/RootViewController.xib
+s308282531.007906
+e308282533.290550
+r1
+xCompileXIB
+x/Users/link/Downloads/KVOTables/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib308282531#308282533#0(0"0(0#0#54"/Users/link/Downloads/KVOTables/RootViewController.xib4300911832#479"    cd /Users/link/Downloads/KVOTables    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/RootViewController.nib /Users/link/Downloads/KVOTables/RootViewController.xib0#
+
+CGenerateDSYMFile "/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app.dSYM" "/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app/KVOTables"
+r0
+
+CGenerateDSYMFile /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app.dSYM /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables
+s308300929.690667
+e308300929.710922
+r1
+xGenerateDSYMFile
+x/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app.dSYM
+x/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/KVOTables.app.dSYM build/Debug-iphonesimulator/KVOTables.app/KVOTables308300929#308300929#0(0"0(0#0#83"/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables4300911832#368"    cd /Users/link/Downloads/KVOTables    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables -o /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app.dSYM0#
+
+CLd "/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app/KVOTables" normal i386
+r0
+
+CLd /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables normal i386
+s308300929.665631
+e308300929.690559
+r1
+xLd
+x/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables
+xnormal
+xi386
+lSLF07#2@88"Link /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables308300929#308300929#0(0"0(0#0#0"4300911832#839"    cd /Users/link/Downloads/KVOTables    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator -F/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator -filelist /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/Objects-normal/i386/KVOTables.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/KVOTables0#
+
+CProcessInfoPlistFile "/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app/Info.plist" KVOTables-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/Info.plist KVOTables-Info.plist
+s308282530.792208
+e308282530.968552
+r1
+xProcessInfoPlistFile
+x/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/Info.plist
+xKVOTables-Info.plist
+lSLF07#2@28"Process KVOTables-Info.plist308282530#308282530#0(0"0(0#0#52"/Users/link/Downloads/KVOTables/KVOTables-Info.plist4300911832#464"    cd /Users/link/Downloads/KVOTables    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility KVOTables-Info.plist -genpkginfo /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app/Info.plist0#
+
+CProcessPCH /var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-fgrqztazxkuhflcepuffcrqdrxyc/KVOTables_Prefix.pch.gch KVOTables_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-gpniqzmlyblcrtaxqootixcqsqfs/KVOTables_Prefix.pch.gch KVOTables_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308282533.290857
+e308282535.155761
+r1
+xProcessPCH
+x/var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-gpniqzmlyblcrtaxqootixcqsqfs/KVOTables_Prefix.pch.gch
+xKVOTables_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile KVOTables_Prefix.pch308282533#308282535#0(0"0(0#0#52"/Users/link/Downloads/KVOTables/KVOTables_Prefix.pch4300911832#1719"    cd /Users/link/Downloads/KVOTables    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-generated-files.hmap -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-own-target-headers.hmap -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-all-target-headers.hmap -iquote /Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/KVOTables-project-headers.hmap -F/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator -I/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/include -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/DerivedSources/i386 -I/Users/link/Downloads/KVOTables/build/KVOTables.build/Debug-iphonesimulator/KVOTables.build/DerivedSources -c /Users/link/Downloads/KVOTables/KVOTables_Prefix.pch -o /var/folders/kM/kM9MgZb1GcStklE089iB8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVOTables_Prefix-gpniqzmlyblcrtaxqootixcqsqfs/KVOTables_Prefix.pch.gch0#
+
+CTouch "/Users/link/Desktop/test pro/KVO-KVC/build/Debug-iphonesimulator/KVOTables.app"
+r0
+
+CTouch /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app
+s308300929.711014
+e308300929.714453
+r1
+xTouch
+x/Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app
+lSLF07#2@79"Touch /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app308300929#308300929#0(0"0(0#0#0"4300911832#266"    cd /Users/link/Downloads/KVOTables    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/link/Downloads/KVOTables/build/Debug-iphonesimulator/KVOTables.app0#
+
